@@ -29,4 +29,3 @@ def get_factors(num: int, prime: bool = False) -> List[int]:
     return factors 
 
 get_factors(1778294, prime=True)        
-
